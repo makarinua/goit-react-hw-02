@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Hellow</h1>
+      <h1>Hellow GoIt-react-hw-02</h1>
     </>
   )
 }
